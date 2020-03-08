@@ -17,7 +17,7 @@ To get started, create a virtual environment -
 ```bash
 
 lakshya@ctf:$ git clone https://github.com/Lakshya-CTF/lakshya-ctf-2019
-lakshya@ctf:$ cd Lakshya-CTF-Website
+lakshya@ctf:$ cd lakshya-ctf-2019
 lakshya@ctf:$ virtualenv venv
 lakshya@ctf:$ source venv/bin/activate 
 lakshya@ctf:$ pip install -r requirements.txt
