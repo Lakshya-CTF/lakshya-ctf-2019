@@ -30,6 +30,8 @@ Migrate the Django SQLite database before running the server.
 
 lakshya@ctf:$ python manage.py makemigrations app 
 lakshya@ctf:$ python manage.py migrate app
+lakshya@ctf:$ python manage.py makemigrations  
+lakshya@ctf:$ python manage.py migrate
 lakshya@ctf:$ python manage.py runserver
 
 ```
