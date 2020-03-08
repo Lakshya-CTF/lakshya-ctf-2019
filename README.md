@@ -16,11 +16,11 @@ To get started, create a virtual environment -
 
 ```bash
 
-Lakshya@ctf:$ git clone https://github.com/chaitanyarahalkar/Lakshya-CTF-Website
-Lakshya@ctf:$ cd Lakshya-CTF-Website
-Lakshya@ctf:$ virtualenv venv
-Lakshya@ctf:$ source venv/bin/activate 
-Lakshya@ctf:$ pip install -r requirements.txt
+lakshya@ctf:$ git clone https://github.com/Lakshya-CTF/lakshya-ctf-2019
+lakshya@ctf:$ cd Lakshya-CTF-Website
+lakshya@ctf:$ virtualenv venv
+lakshya@ctf:$ source venv/bin/activate 
+lakshya@ctf:$ pip install -r requirements.txt
 
 ```
 
@@ -66,7 +66,7 @@ One-click deploy on [Heroku](https://heroku.com)
 
 #### Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/chaitanyarahalkar/Lakshya-CTF-Website/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Lakshya-CTF/lakshya-ctf-2019/issues).
 
 #### Show your support
 
@@ -74,8 +74,8 @@ Give a ⭐️ if this project helped you!
 
 #### License
 
-Copyright © 2019 [Chaitanya Rahalkar](https://github.com/chaitanyarahalkar).<br />
-This project is [MIT](https://github.com/chaitanyarahalkar/Lakshya-CTF-Website/blob/master/LICENSE) licensed.
+Copyright © 2019 [Lakshya CTF](https://github.com/Lakshya-CTF).<br />
+This project is [MIT](https://github.com/Lakshya-CTF/lakshya-ctf-2019/blob/master/LICENSE) licensed.
 
 
 
