@@ -1,0 +1,7 @@
+{
+  "name": "Lakshya CTF Website",
+  "description": "Lakshya CTF is an online platform to test and advance skills in Penetration Testing and Cybersecurity.",
+  "repository": "https://github.com/chaitanyarahalkar/Lakshya-CTF-Website",
+  "logo": "https://github.com/chaitanyarahalkar/Lakshya-CTF-Website/raw/master/logo.png",
+  "keywords": ["ctf", "django", "capture the flag"]
+}
