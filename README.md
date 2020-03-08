@@ -74,7 +74,7 @@ Give a ⭐️ if this project helped you!
 
 #### License
 
-Copyright © 2019 [Lakshya CTF](https://github.com/Lakshya-CTF).<br />
+Copyright © 2020 [Lakshya CTF](https://github.com/Lakshya-CTF).<br />
 This project is [MIT](https://github.com/Lakshya-CTF/lakshya-ctf-2019/blob/master/LICENSE) licensed.
 
 
